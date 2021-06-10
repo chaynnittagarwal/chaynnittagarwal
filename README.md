@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Angular.js
 - 💞️ I’m looking to collaborate on ... GCP
 - 📫 How to reach me ... 
+- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
     [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
